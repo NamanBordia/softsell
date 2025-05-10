@@ -61,4 +61,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Contact
 
-For any inquiries, please visit our [Contact Page](http://localhost:3000/contact) or reach out to us through GitHub.
+For any inquiries, please visit our [Contact Page](https://softsellproject.vercel.app/contact) or reach out to us through GitHub.
